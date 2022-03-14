@@ -1,0 +1,3 @@
+- JS is a case sensitive language
+- All program are write use the Unicode character set
+- JS ignores whitespace, tabulators and line breaks.
