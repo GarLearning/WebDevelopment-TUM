@@ -69,3 +69,23 @@
       - Only variables declared with **var** keyword can be hoisted.
  - Function hoisted
    - The same above idea, invoke a function before it is declared.
+
+## Loop
+---
+  - [For](./Code.js)
+    - Is composed by 3 statements, where all of them are optional.
+      1.  Initializer - Can initialized many values.
+      2.  Loop termination condition - If not provide, a break need be add.
+      3.  Updater - If not provide, the values need to be incremented within the loop.
+    - [For/in](./Code.js)
+      - Is useful for objects.
+    - [For/of](./Code.js)
+      - Is useful for arrays.
+  - While
+    - A code block is executed until the condition is true.
+    - [Do/While Loop](./Code.js)
+      - The code block is execute before the condition is tested.
+
+## Conditionals
+  - Execute a different action based on conditions presented.
+  - Conditions if; else; if else; [switch](./Code.js)
