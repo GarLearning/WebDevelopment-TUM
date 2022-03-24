@@ -1,6 +1,6 @@
 // Objects part I
 
-function Swordman(name, dmg, hp){
+function Swordman(name, dmg, hp) {
  this.name = name;
  this.dmg = dmg;
  this.hp = hp;
